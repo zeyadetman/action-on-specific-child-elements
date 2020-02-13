@@ -1,4 +1,4 @@
-Published here: [https://zeyadetman.github.io/blog/posts/Apply-condition-on-specific-nested-child-elements-in-ReactJS/](Apply condition on specific nested child elements in ReactJS)
+Published here: [Apply condition on specific nested child elements in ReactJS](https://zeyadetman.github.io/blog/posts/Apply-condition-on-specific-nested-child-elements-in-ReactJS/)
 
 # Apply condition on specific nested child elements in ReactJS
 
